@@ -1,4 +1,3 @@
-# PythonByOscar
 # PythonByOscar 🐍
 
 My Python learning portfolio: course exercises, practice scripts, and fun mini-projects.
